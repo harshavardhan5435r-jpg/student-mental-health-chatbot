@@ -1,4 +1,4 @@
-# 🤖 Student Mental Health Assistant
+# 🤖 Student Mental Health Chatbot
 
 An AI-powered web application designed to help students identify and manage stress, anxiety, and depression. The system uses a **Neural Network (MLP Classifier)** to provide personalized mental health assessments and empathetic coping strategies.
 
